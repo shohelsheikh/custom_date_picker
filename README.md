@@ -1,6 +1,6 @@
-# flutter_date_picker
+# custom_date_picker
 
-A new Flutter project.
+This project contains custom date picker with multiple options.
 
 ## Getting Started
 
